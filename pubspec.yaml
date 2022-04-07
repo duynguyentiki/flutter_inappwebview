@@ -26,8 +26,6 @@ flutter:
       android:
         package: com.pichillilorenzo.flutter_inappwebview
         pluginClass: InAppWebViewFlutterPlugin
-      ios:
-        pluginClass: InAppWebViewFlutterPlugin
 
   assets:
     - packages/flutter_inappwebview/t_rex_runner/t-rex.html
